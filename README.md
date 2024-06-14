@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamedamin Abdullahi</h1>
-<h3 align="center">A passionate software engineer from Canada</h3>
+<h3 align="center">A Passionate Software Engineer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <a href="https://twitter.com/your-twitter-handle" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-abdullahi-375727196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abdullahi-375727196" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mohamedabdullahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mohamedabdullahi" height="30" width="40" /></a>
+<a href="https://abdullahiamin.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mohamedabdullahi" height="30" width="40" /></a>
 <a href="https://medium.com/@abdullahiamin93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdullahiamin93" height="30" width="40" /></a>
 </p>
 
