@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM0/YIXQzY2ADyI/AAAAAAAADUk/JroH6oeT_qcB5xJICWkT7K6uDoJhG5fAACLcBGAsYHQ/s1600/razer.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamedamin Abdullahi</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
