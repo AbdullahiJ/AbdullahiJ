@@ -1,6 +1,6 @@
-[![MasterHead](https://www.your-image-url.com/your-image.jpg)](https://your-website-url.com)
+[![MasterHead](https://cdn.pixabay.com/photo/2016/11/14/03/16/computer-1822396_1280.jpg)](https://github.com/abdullahij)
 <h1 align="center">Hi 👋, I'm Mohamedamin Abdullahi</h1>
-<h3 align="center">A passionate software engineer from Canada</h3>
+<h3 align="center">A passionate frontend developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <a href="https://twitter.com/your-twitter-handle" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
